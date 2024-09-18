@@ -1,4 +1,4 @@
-# Projet Cybersécurité - NIDS (Network Intrusion Detection System)
+# Projet - NIDS (Network Intrusion Detection System)
 
 ## Description
 Un NIDS (Network Intrusion Detection System) est une sonde réseau permettant d'analyser le trafic en temps réel afin de détecter des activités inhabituelles ou malveillantes. Parmi ces activités, on retrouve les scans de ports, tentatives d'intrusion, mouvements latéraux, exfiltration de données, portes dérobées, etc.
