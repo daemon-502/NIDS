@@ -12,10 +12,10 @@ Développer un NIDS basique capable de :
 - Alerter l'utilisateur en cas de détection
 
 ## Outils et technologies utilisés
-- **Python 3.X**
+- **Python 3.x**
 - **Scapy** : Une puissante bibliothèque Python pour la manipulation et l'analyse des paquets réseau.
 
-## Fonctionnalités prévues
+## Fonctionnalités prévues (V1)
 - Capture du trafic réseau en temps réel
 - Analyse des paquets pour détecter des comportements anormaux
 - Notifications en cas de détection d'activité suspecte
